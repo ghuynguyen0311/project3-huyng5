@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - name: project3-api
-        image: 478577415687.dkr.ecr.us-east-1.amazonaws.com/coworking
+        image: 532631478217.dkr.ecr.us-east-1.amazonaws.com/project3:latest
         imagePullPolicy: Always
         livenessProbe:
           httpGet:
