@@ -19,3 +19,4 @@ ENV NAME PRD
 
 # Run the application when the container starts
 CMD ["python", "/app/app.py"]
+#note
